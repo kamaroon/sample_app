@@ -25,7 +25,6 @@ gem 'jquery-rails'
 
 group :test do
 	gem 'rspec'
-	gem 'webrat'
 	gem 'capybara','1.1.2'
 end
 
